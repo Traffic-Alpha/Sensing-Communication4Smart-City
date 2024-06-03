@@ -1,4 +1,4 @@
-# **Conference Program**
+# **Projects**
 
 ## **Overview**
 <div align=center>
