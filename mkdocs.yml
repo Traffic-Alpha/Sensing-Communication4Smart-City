@@ -1,0 +1,83 @@
+site_name: "Laboratory of Sensing and Communication for Smart City"
+site_url: https://mypage.cuhk.edu.cn/academics/simonpun/
+copyright: Copyright &copy; LSCSC 2024 All rights reserved
+theme:
+  name: material
+  custom_dir: docs/overrides/
+  include_search_page: false
+  search_index_only: true
+  logo: assets/images/zh_logo.png
+  favicon: assets/images/cuhk_logo.png
+  palette:
+    - scheme: white
+      primary: white
+      accent: white
+  
+  features:
+    - toc.integrate
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - content.code.select
+    - content.code.copy
+    - content.code.select
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/stylesheets/extra.js
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+extra:
+  generator: false
+  social: 
+    - icon: fontawesome/solid/envelope
+      link: tamc2024hk@gmail.com
+    - icon: fontawesome/solid/phone
+      link: +852-2766-7255
+nav:
+  - Home: index.md
+
+  - Members: members.md
+
+  - Projects: projects.md
+
+  - Publications: pubs.md
+
+  - Join Us: join.md
+
+  - Demo: demo.md
