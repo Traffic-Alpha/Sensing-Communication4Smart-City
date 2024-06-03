@@ -1,7 +1,12 @@
 # **Conference Program**
-TAMC 2024 Proceedings: [https://link.springer.com/book/10.1007/978-981-97-2340-9](https://link.springer.com/book/10.1007/978-981-97-2340-9)
+
+<div align=center>
+<img src='../assets/images/projects.png' style="width: 100%">
+</div>
+
+More details can be found in:
 <iframe
-  src="../assets/program.pdf"
+  src="../assets/pdf/projects2023.pdf"
   width="100%"
   height="800px"
 ></iframe>
