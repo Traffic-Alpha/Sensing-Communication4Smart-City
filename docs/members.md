@@ -7,7 +7,7 @@
             <img src="../assets/images/members/director.png" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Simon Pun</a></div>
+            <div style="font-weight: bold;"><a href="../pi/" target="_self">Simon Pun</a></div>
             <div style="font-weight: bold;">Professor</div>
             <div>Wireless Communications, IoT, Remote Sensing, Machine Learning</div>
             <div>Mail: <a href="mailto:simonpun@cuhk.edu.cn">simonpun@cuhk.edu.cn</a></div>
@@ -22,7 +22,7 @@
             <img src="../assets/images/members/wangmaonan.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Maonan Wang</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Maonan Wang</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div>Reinforcement Learning, Intelligent Transportation System (ITS)</div>
             <div>Mail: <a href="mailto:maonanwang@link.cuhk.edu.cn">maonanwang@link.cuhk.edu.cn</a></div>
@@ -33,7 +33,7 @@
             <img src="../assets/images/members/MaXianping.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Xianping Ma</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Xianping Ma</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div>Multimodal Fusion, Remote Sensing, Machine Learning</div>
             <div>Mail: <a href="mailto:ma.xianping125@gmail.com">ma.xianping125@gmail.com</a></div>
@@ -44,7 +44,7 @@
             <img src="../assets/images/members/xieyuejiao.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Yujiao Xie</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Yujiao Xie</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div>Reinforcement Learning, Machine learning, Communication networks</div>
             <div>Mail: <a href="mailto:yuejiaoxie@cuhk.edu.cn">yuejiaoxie@cuhk.edu.cn</a></div>
@@ -55,7 +55,7 @@
             <img src="../assets/images/members/wuqianqian.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Qianqian Wu</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Qianqian Wu</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div>Reinforcement learning, Location coverage problems, Sensor configuration</div>
             <div>Mail: <a href="mailto:wuqq97@foxmail.com">wuqq97@foxmail.com</a></div>
@@ -66,7 +66,7 @@
             <img src="../assets/images/members/MaDing.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Ding Ma</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Ding Ma</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div>Remote Sensing, Machine Learning</div>
             <div>Mail: <a href="mailto:mading2461@outlook.com">mading2461@outlook.com</a></div>
@@ -77,7 +77,7 @@
             <img src="../assets/images/members/PangAoYu.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Aoyu Pang</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Aoyu Pang</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div>Reinforcement Learning, Intelligent Transportation</div>
             <div>Mail: <a href="mailto:aoyupang@link.cuhk.edu.cn">aoyupang@link.cuhk.edu.cn</a></div>
@@ -88,7 +88,7 @@
             <img src="../assets/images/members/CuiXiangyu.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Xiangyu Cui</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Xiangyu Cui</a></div>
             <div style="font-weight: bold;">M.Phil. Student</div>
             <div>Reinforcement Learning, IoT</div>
             <div>Mail: <a href="mailto:xiangyucui@link.cuhk.edu.cn">xiangyucui@link.cuhk.edu.cn</a></div>
@@ -99,7 +99,7 @@
             <img src="../assets/images/members/huangyiming.jpeg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Yiming Huang</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Yiming Huang</a></div>
             <div style="font-weight: bold;">M.Sc. Student</div>
             <div>Remote Sensing Image Processing, Multispectral and Panchromatic Image Fusion, Computer Visionn</div>
             <div>Mail: <a href="mailto:2870599423@qq.com">2870599423@qq.com</a></div>
@@ -110,7 +110,7 @@
             <img src="../assets/images/members/Suijialu.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Jialu Sui</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Jialu Sui</a></div>
             <div style="font-weight: bold;">M.Phil. Student</div>
             <div>Remote Sensing, Image Super Resolution</div>
             <div>Mail: <a href="mailto:222010528@link.cuhk.edu.cn">222010528@link.cuhk.edu.cn</a></div>
@@ -121,7 +121,7 @@
             <img src="../assets/images/members/syc.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Yuchao Sun</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Yuchao Sun</a></div>
             <div style="font-weight: bold;">M.Phil. Student</div>
             <div>Deep learning, Biomedical Signal Processing</div>
             <div>Mail: <a href="mailto:sunyuchaohk@163.com">sunyuchaohk@163.com</a></div>
@@ -132,7 +132,7 @@
             <img src="../assets/images/members/LWD.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Wendi Liang</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Wendi Liang</a></div>
             <div style="font-weight: bold;">M.Phil. Student</div>
             <div>Deep Learning, Indoor Positioning</div>
             <div>Mail: <a href="mailto:222010513@link.cuhk.edu.cn">222010513@link.cuhk.edu.cn</a></div>
@@ -143,7 +143,7 @@
             <img src="../assets/images/members/XieWeiFeng.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="link/to/profile1.html" target="_blank">Weifeng Xie</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">Weifeng Xie</a></div>
             <div style="font-weight: bold;">M.Phil. Student</div>
             <div>Machine learning, IoT</div>
             <div>Mail: <a href="mailto:xieweifeng@link.cuhk.edu.cn">xieweifeng@link.cuhk.edu.cn</a></div>

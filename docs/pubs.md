@@ -1,8 +1,8 @@
 # **Publications**
 
 ## **Journal Papers (Since 2022)**
-- M. Wang, X. Xiong, Y. Kan, C. Xu and M.O. Pun, "UniTSA: Universal Reinforcement Learning-based Traffic Signal Control Framework for V2X", accepted for publication in the IEEE Transactions on Vehicular Technology, May 2024. [Paper Link](https://ieeexplore.ieee.org/document/10535743)
-- Y. Wen, X. Ma, X. Zhang and M.O. Pun, "GCD-DDPM: A Generative Change Detection Model Based on Difference-Feature-Guided DDPM," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024, Art no. 5404416, doi: 10.1109/TGRS.2024.3381752. [Paper Link](https://ieeexplore.ieee.org/document/10479050)
+- M. Wang, X. Xiong, Y. Kan, C. Xu and M.O. Pun, "UniTSA: Universal Reinforcement Learning-based Traffic Signal Control Framework for V2X", accepted for publication in the IEEE Transactions on Vehicular Technology, May 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10535743)
+- Y. Wen, X. Ma, X. Zhang and M.O. Pun, "GCD-DDPM: A Generative Change Detection Model Based on Difference-Feature-Guided DDPM," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024, Art no. 5404416, doi: 10.1109/TGRS.2024.3381752. [[Paper Link]](https://ieeexplore.ieee.org/document/10479050)
 - X. Xiu, X. Ma, M.O. Pun and M. Liu, "AMBNet: Adaptive Multi-feature Balanced Network for Multimodal Remote Sensing Semantic Segmentation”, the APSIPA Transactions on Signal and Information Processing,  vol. 13, no. 3, April 2024.
 - J. Sui, Q. Wu, and M.O. Pun, "Denoising Diffusion Probabilistic Model with Adversarial Learning for Remote Sensing Super-Resolution", Remote Sensing, vol. 16, no. 7, pp. 1219, March 2024.
 - X. Ma, X. Zhang, M.O. Pun and M. Liu, "A Multilevel Multimodal Fusion Transformer for Remote Sensing Semantic Segmentation”, the IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-15, March 2024.

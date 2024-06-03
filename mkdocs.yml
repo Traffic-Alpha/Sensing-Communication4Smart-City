@@ -66,9 +66,9 @@ extra:
   generator: false
   social: 
     - icon: fontawesome/solid/envelope
-      link: tamc2024hk@gmail.com
+      link: simonpun@cuhk.edu.cn
     - icon: fontawesome/solid/phone
-      link: +852-2766-7255
+      link: +86-0755-23519520
 nav:
   - Home: index.md
 
