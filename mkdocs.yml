@@ -6,7 +6,7 @@ theme:
   custom_dir: docs/overrides/
   include_search_page: false
   search_index_only: true
-  logo: assets/images/zh_logo.png
+  logo: assets/images/zh-hans_logo.png
   favicon: assets/images/cuhk_logo.png
   palette:
     - scheme: white
