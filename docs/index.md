@@ -3,13 +3,19 @@ hide:
   - toc
 ---
 
-<!-- # **智慧城市感知与通信实验室** -->
-
-<!-- <div align=left>
-<img src='./assets/images/groupphoto.jpg' style="width: 60%">
-</div> -->
-
-<!-- --- -->
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.1">
+    <style>
+        /* 设置缩放效果 */
+        body {
+            zoom: 1.05; /* 缩放110% */
+        }
+    </style>
+</head>
+</html> -->
 
 # **News**
 
