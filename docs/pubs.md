@@ -1,11 +1,3 @@
-<!--
- * @Author: wmn7 18811371255@163.com
- * @Date: 2024-06-04 14:10:57
- * @LastEditors: wmn7 18811371255@163.com
- * @LastEditTime: 2024-06-04 14:14:15
- * @FilePath: /traffic_project/Sensing-Communication-for-Smart-City/docs/pubs.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 # **Publications**
 
 ## **Journal Papers (Since 2022)**
