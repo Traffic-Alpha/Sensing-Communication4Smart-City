@@ -19,6 +19,8 @@ hide:
 
 # **News**
 
+## 2025
+
 ## 2024
 
 - **2024.05** Our recent paper on an RL-based universal framework for V2X traffic signal control has been accepted by the IEEE Transactions on Vehicular Technology (IF 6.8). [[Paper Link]](https://arxiv.org/abs/2312.05090)
