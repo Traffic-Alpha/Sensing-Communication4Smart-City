@@ -2,6 +2,8 @@
 
 ## **Journal Papers (Since 2022)**
 
+### 2025
+
 ### 2024
 
 - Q. Wu, X. Ma, J. Sui and M.O. Pun, "DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification", accepted for publication in the IEEE Transactions on Geoscience and Remote Sensing, June 2024.
