@@ -2,6 +2,8 @@
 
 ## **Journal Papers (Since 2022)**
 
+### 2025
+
 ### 2024
 
 - M. Wang, X. Xiong, Y. Kan, C. Xu and M.O. Pun, "UniTSA: Universal Reinforcement Learning-based Traffic Signal Control Framework for V2X", accepted for publication in the IEEE Transactions on Vehicular Technology, May 2024.
