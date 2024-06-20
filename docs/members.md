@@ -7,8 +7,8 @@
         <img src="../assets/images/members/director.png" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; object-position: top; margin-right: 20px;">
     </div>
     <div>
-        <div style="font-weight: bold;"><a href="../pi/" target="_self">Simon Pun</a></div>
-        <div style="font-weight: bold;">Professor</div>
+        <div style="font-weight: bold;"><a href="../pi/" target="_self">Prof. Simon Pun</a></div>
+        <div style="font-weight: bold;">Lab Director</div>
         <div>Wireless Communications, IoT, Remote Sensing, Machine Learning</div>
         <div>Mail: <a href="mailto:simonpun@cuhk.edu.cn">simonpun@cuhk.edu.cn</a></div>
     </div>

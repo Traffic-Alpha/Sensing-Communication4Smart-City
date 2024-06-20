@@ -57,7 +57,7 @@ hide:
     <div align="center">
         <img src="../assets/images/members/director.png" style="width: 20%">
         <br>
-        <div style="font-weight: bold;">Prof. Simon Pun, Dean of Harmonia College</div>
+        <div style="font-weight: bold;">Prof. Simon Pun, Acting Master of Harmonia College</div>
     </div>
 
     <h2 id="section1"><strong>Biography</strong></h2>
@@ -69,14 +69,14 @@ hide:
 
     <p>Prof. Pun served as associate editor in the channel modeling track for the IEEE Transactions on Wireless Communications in 2010 - 2014. He has chaired the 31st Wireless and Optical Communications Conference (WOCC), Shenzhen in 2022.8 and co-chaired the Wireless Communications Symposium (WCS) for ICC'2012 and ICC'2020, one of the two flagship conferences organized by the IEEE ComSoc. Dr. Pun is a senior member of IEEE. He is the founding chair of the IEEE Shenzhen Joint ComSoc-SPS Chapter.</p>
 
-    <p>At CUHKSZ, Professor Pun has served as the assistant dean (student affairs) for the School of Science and Engineering (2015-2019), the director for the Nobel Class (the elite class of the University) since 2018, the acting college master for Muse College (2016-2017), and the associate college master for Harmonia College (since 2020), the Assembly Fellow of Diligentia College (since 2016), the founding director of the Undergraduate Student Teaching Fellow (USTF) program (since 2016), the Program Coordinator for the Electronic and Information Engineering (EIE) (2015-2022) and the vice-director of the Maker Lab (since 2019).</p>
+    <p>At CUHKSZ, Professor Pun has served as the assistant dean (student affairs) for the School of Science and Engineering (2015-2019), the director for the Nobel Class (the elite class of the University) since 2018, the acting college master for Muse College (2016-2017), and the associate college master for Harmonia College (since 2020), the Assembly Fellow of Diligentia College (2016-2022), the founding director of the Undergraduate Student Teaching Fellow (USTF) program (since 2016), the Program Coordinator for the Electronic and Information Engineering (EIE) (2015-2022) and the vice-director of the Maker Lab (since 2019).</p>
 
     <h2 id="section2"><strong>Education Background</strong></h2>
     <ul>
-        <li><strong>2006-2008</strong>, Postdoctoral Fellow, <em>Princeton University</em>, U.S.A</li>
-        <li><strong>2006</strong>, Doctor of Philosophy, <em>University of Southern California</em>, U.S.A</li>
-        <li><strong>1999</strong>, Master of Engineering, <em>University of Tsukuba</em>, Japan</li>
-        <li><strong>1996</strong>, Bachelor of Engineering, <em>The Chinese University of Hong Kong</em>, Hong Kong</li>
+        <li><strong>2006-2008</strong>, Postdoctoral Research Associate, <em>Princeton University</em>, U.S.A</li>
+        <li><strong>2006</strong>, Ph.D. in Electrical Engineering, <em>University of Southern California</em>, U.S.A</li>
+        <li><strong>1999</strong>, MEng. in Computer Sciences, <em>University of Tsukuba</em>, Japan</li>
+        <li><strong>1996</strong>, BEng. in Electronic Engineering, <em>The Chinese University of Hong Kong</em>, Hong Kong</li>
     </ul>
 
     <h2 id="section3"><strong>Selected Publications</strong></h2>

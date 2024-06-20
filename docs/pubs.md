@@ -1,18 +1,15 @@
-# **Publications**
-
 ## **Journal Papers (Since 2022)**
-
-### 2025
-
 ### 2024
 
-- Q. Wu, X. Ma, J. Sui and M.O. Pun, "DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification", accepted for publication in the IEEE Transactions on Geoscience and Remote Sensing, June 2024.
-- M. Wang, X. Xiong, Y. Kan, C. Xu and M.O. Pun, "UniTSA: Universal Reinforcement Learning-based Traffic Signal Control Framework for V2X", accepted for publication in the IEEE Transactions on Vehicular Technology, May 2024.
-- Y. Wen, X. Ma, X. Zhang and M.O. Pun, "GCD-DDPM: A Generative Change Detection Model Based on Difference-Feature-Guided DDPM," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024, Art no. 5404416, doi: 10.1109/TGRS.2024.3381752.
-- X. Xiu, X. Ma, M.O. Pun and M. Liu, "AMBNet: Adaptive Multi-feature Balanced Network for Multimodal Remote Sensing Semantic Segmentation”, the APSIPA Transactions on Signal and Information Processing,  vol. 13, no. 3, April 2024.
-- J. Sui, Q. Wu, and M.O. Pun, "Denoising Diffusion Probabilistic Model with Adversarial Learning for Remote Sensing Super-Resolution", Remote Sensing, vol. 16, no. 7, pp. 1219, March 2024.
-- X. Ma, X. Zhang, M.O. Pun and M. Liu, "A Multilevel Multimodal Fusion Transformer for Remote Sensing Semantic Segmentation”, the IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-15, March 2024.
-- A. Pang, M. Wang, Y. Chen, M.O. Pun and M. Lepechand, "Scalable Reinforcement Learning Framework for Traffic Signal Control under Communication Delays”, the IEEE Open Journal of Vehicular Technology,  vol. 5, pp. 330 - 343, March 2024.
+- Q. Wu, X. Ma, J. Sui and M.O. Pun, "DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification", accepted for publication in the IEEE Transactions on Geoscience and Remote Sensing, June 2024. [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/10556641)
+- X. Ma, X. Zhang and M.O. Pun, "RS3Mamba: Visual State Space Model for Remote Sensing Image Semantic Segmentation", accepted for publication in the IEEE Geoscience and Remote Sensing Letter, June 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10556777)
+- J. Sui, Y. Ma, W. Yang, X. Zhang, M.O. Pun and J. Liu, "Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery", accepted for publication in the IEEE Transactions on Geoscience and Remote Sensing, June 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10552304)
+- M. Wang, X. Xiong, Y. Kan, C. Xu and M.O. Pun, "UniTSA: Universal Reinforcement Learning-based Traffic Signal Control Framework for V2X", accepted for publication in the IEEE Transactions on Vehicular Technology, May 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10535743)
+- Y. Wen, X. Ma, X. Zhang and M.O. Pun, "GCD-DDPM: A Generative Change Detection Model Based on Difference-Feature-Guided DDPM," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024, Art no. 5404416, doi: 10.1109/TGRS.2024.3381752.[[Paper Link]](https://ieeexplore.ieee.org/document/10479050)
+- X. Xiu, X. Ma, M.O. Pun and M. Liu, "AMBNet: Adaptive Multi-feature Balanced Network for Multimodal Remote Sensing Semantic Segmentation”, the APSIPA Transactions on Signal and Information Processing,  vol. 13, no. 3, April 2024. [[Paper Link]](https://www.nowpublishers.com/article/Details/SIP-2023-0071) 
+- J. Sui, Q. Wu, and M.O. Pun, "Denoising Diffusion Probabilistic Model with Adversarial Learning for Remote Sensing Super-Resolution", Remote Sensing, vol. 16, no. 7, pp. 1219, March 2024. [[Paper Link]](https://www.mdpi.com/2072-4292/16/7/1219)
+- X. Ma, X. Zhang, M.O. Pun and M. Liu, "A Multilevel Multimodal Fusion Transformer for Remote Sensing Semantic Segmentation”, the IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-15, March 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10458980)
+- A. Pang, M. Wang, Y. Chen, M.O. Pun and M. Lepechand, "Scalable Reinforcement Learning Framework for Traffic Signal Control under Communication Delays”, the IEEE Open Journal of Vehicular Technology,  vol. 5, pp. 330 - 343, March 2024. [[Paper Link]](https://ieeexplore.ieee.org/iel7/8782711/8889399/10443835.pdf)
 
 ### 2023
 

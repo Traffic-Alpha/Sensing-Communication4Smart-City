@@ -1,6 +1,6 @@
 site_name: "Laboratory of Sensing and Communication for Smart City"
 site_url: https://mypage.cuhk.edu.cn/academics/simonpun/
-copyright: "Copyright &copy; LSCSC 2024 All rights reserved <span style='color: #161616;'>Designed by YUAN Mingqi and WANG Maonan.</span>"
+copyright: "Copyright &copy; LSCSC 2024 All rights reserved. <span style='color: #161616;'>Designed by YUAN Mingqi and WANG Maonan.</span>"
 theme:
   name: material
   custom_dir: docs/overrides/
