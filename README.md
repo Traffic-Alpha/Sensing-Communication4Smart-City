@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2024-06-04 00:09:09
  * @Description: README for Website
- * @LastEditTime: 2024-07-28 00:52:27
+ * @LastEditTime: 2024-07-28 00:52:28
 -->
 # Laboratory of Sensing and Communication for Smart City
 
