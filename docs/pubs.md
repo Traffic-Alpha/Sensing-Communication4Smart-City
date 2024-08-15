@@ -1,6 +1,6 @@
 ## **Journal Papers (Since 2022)**
 ### 2024
-- X. Ma, Q. Wu, X. Zhao, X. Zhang, M.O. Pun and B. Huang, "SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints", accepted for publication in IEEE Trans. on Geoscience and Remote Sensing, August 2024.
+- X. Ma, Q. Wu, X. Zhao, X. Zhang, M.O. Pun and B. Huang, "SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints", accepted for publication in IEEE Trans. on Geoscience and Remote Sensing, August 2024.  [[Paper Link]](https://doi.org/10.1109/TGRS.2024.3443420)
 - M. Wang, X. Xiong, Y. Kan, C. Xu and M.O. Pun, "UniTSA: Universal Reinforcement Learning-based Traffic Signal Control Framework for V2X", accepted for publication in IEEE Transactions on Vehicular Technology, May 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10535743)
 - Q. Wu, X. Ma, J. Sui and M.O. Pun, "DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification", IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, June 2024. [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/10556641)
 - X. Ma, X. Zhang and M.O. Pun, "RS3Mamba: Visual State Space Model for Remote Sensing Image Semantic Segmentation", IEEE Geoscience and Remote Sensing Letter, vol. 21, pp. 1-5, June 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10556777)
