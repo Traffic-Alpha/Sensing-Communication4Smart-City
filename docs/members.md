@@ -107,7 +107,7 @@
             <img src="../assets/images/members/XieWeiFeng.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="" target="_self">Weifeng Xie</a></div>
+            <div style="font-weight: bold;"><a href="" target="_self">XIE Weifeng</a></div>
             <div style="font-weight: bold;">M.Phil. Student</div>
             <div> 本科毕业院校：武汉大学</div>
             <div>Machine learning, IoT</div>
@@ -117,17 +117,18 @@
 </div>
 
 ## **Research Assistants**
-- Lin Kexin (北京交通大学)
-- HU Yin
-- LUO Yixin (中科院)
-- HUANG Xiunan (中山大学)
+- Lin Kexin (硕士毕业于北京交通大学)
+- HU Yin (硕士毕业于Rice University, U.S.)
+- LUO Yixin (硕士毕业于中科院)
+- WANG Sijin (本科毕业于东北大学秦皇岛)
 
 ## **Undergraduate Students**
-- CHEN Qixu
+- LI Yutao
+- KANG Zimo
+- WU Yanrui
 - LIU Yu
 - YIN Hongrui
 - WU Yueyan
-- JIANG Jianuo
 
 ## **Alumni**
 ### **2024**
