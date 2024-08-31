@@ -10,7 +10,7 @@
         <div style="font-weight: bold;"><a href="../pi/" target="_self">Prof. Simon Pun</a></div>
         <div style="font-weight: bold;">Lab Director</div>
         <div>Wireless Communications, IoT, Remote Sensing, Machine Learning</div>
-        <div>Mail: <a href="mailto:simonpun@cuhk.edu.cn">simonpun@cuhk.edu.cn</a></div>
+        <div>Mail: <a href="mailto:simonpun [at] cuhk.edu.cn">simonpun [at] cuhk.edu.cn</a></div>
     </div>
 </div>
 
@@ -27,7 +27,7 @@
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本硕毕业院校：北京邮电大学</div>
             <div>Reinforcement Learning, Intelligent Transportation System (ITS)</div>
-            <div>Mail: <a href="mailto:maonanwang@link.cuhk.edu.cn">maonanwang@link.cuhk.edu.cn</a></div>
+            <div>Mail: <a href="mailto:maonanwang [at] link.cuhk.edu.cn">maonanwang [at] link.cuhk.edu.cn</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -39,7 +39,7 @@
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本科毕业院校：武汉大学</div>
             <div>Multimodal Fusion, Remote Sensing, Machine Learning</div>
-            <div>Mail: <a href="mailto:ma.xianping125@gmail.com">ma.xianping125@gmail.com</a></div>
+            <div>Mail: <a href="mailto:ma.xianping125 [at] gmail.com">ma.xianping125 [at] gmail.com</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -51,7 +51,7 @@
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 毕业院校：深圳大学（本科）, 香港中文大学（深圳）（硕士）</div>
             <div>Reinforcement Learning, Machine learning, Communication networks</div>
-            <div>Mail: <a href="mailto:yuejiaoxie@cuhk.edu.cn">yuejiaoxie@cuhk.edu.cn</a></div>
+            <div>Mail: <a href="mailto:yuejiaoxie [at] cuhk.edu.cn">yuejiaoxie [at] cuhk.edu.cn</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -63,7 +63,7 @@
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本硕毕业院校：中国地质大学（武汉）</div>
             <div>Reinforcement learning, Location coverage problems, Sensor configuration</div>
-            <div>Mail: <a href="mailto:wuqq97@foxmail.com">wuqq97@foxmail.com</a></div>
+            <div>Mail: <a href="mailto:wuqq97 [at] foxmail.com">wuqq97 [at] foxmail.com</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -75,7 +75,7 @@
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本科毕业院校：香港中文大学（深圳）</div>
             <div>Remote Sensing, Machine Learning</div>
-            <div>Mail: <a href="mailto:mading2461@outlook.com">mading2461@outlook.com</a></div>
+            <div>Mail: <a href="mailto:mading2461 [at] outlook.com">mading2461 [at] outlook.com</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -87,7 +87,7 @@
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本科毕业院校：南京航空航天大学</div>
             <div>Reinforcement Learning, Intelligent Transportation</div>
-            <div>Mail: <a href="mailto:aoyupang@link.cuhk.edu.cn">aoyupang@link.cuhk.edu.cn</a></div>
+            <div>Mail: <a href="mailto:aoyupang [at] link.cuhk.edu.cn">aoyupang [at] link.cuhk.edu.cn</a></div>
         </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -99,7 +99,7 @@
     <div style="font-weight: bold;">Ph.D. Student</div>
     <div> 本硕毕业院校：西安电子科技大学</div>
     <div>Remote Sensing, Cloud Removal, Machine Learning</div>
-    <div>Mail: <a href="mailto:zywang_6@stu.xidian.edu.cn">zywang_6@stu.xidian.edu.cn</a></div>
+    <div>Mail: <a href="mailto:zywang_6 [at] stu.xidian.edu.cn">zywang_6 [at] stu.xidian.edu.cn</a></div>
     </div>
     </div>
     <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
@@ -111,7 +111,7 @@
             <div style="font-weight: bold;">M.Phil. Student</div>
             <div> 本科毕业院校：武汉大学</div>
             <div>Machine learning, IoT</div>
-            <div>Mail: <a href="mailto:xieweifeng@link.cuhk.edu.cn">xieweifeng@link.cuhk.edu.cn</a></div>
+            <div>Mail: <a href="mailto:xieweifeng [at] link.cuhk.edu.cn">xieweifeng [at] link.cuhk.edu.cn</a></div>
         </div>
     </div>
 </div>
@@ -159,7 +159,7 @@
 ### **2021**
 - Dr. CAO Qi, Postdoc. Fellow, Current Job: Nokia (Hangzhou)
 - Dr. NIU Guanchong, Ph.D. student, Current Job: (华山副教授) Associate Professor, Xidian University.
-- ZHANG Qianyu, （本科毕业院校：东北大学(秦皇岛)）, M.Phil. student, First Job:
+- ZHANG Qianyu, （本科毕业院校：东北大学秦皇岛）, M.Phil. student, First Job:
 - ZHAO Tong, Master student, First Job: 京东
 - WU Lan, Undergraduate student, First Job: Ph.D. student at the National University of Singapore (NUS)
 - WANG Zewei, Undergraduate student, Current Job: Ph.D. student at the Chinese University of Hong Kong, Hong Kong.
