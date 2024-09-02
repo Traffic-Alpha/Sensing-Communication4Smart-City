@@ -1,5 +1,6 @@
 ## **Journal Papers (Since 2022)**
 ### 2024
+- M. Wang, Y. Chen, Y. Kan, C. Xu, M. Lepech, M.O. Pun and X. Xiong,  "Traffic Signal Cycle Control with Centralized Critic and Decentralized Actors under Varying Intervention Frequencies",  accepted for publication in *IEEE Trans. on Intelligent Transportation Systems*, Aug. 2024.
 - M. Wang, X. Xiong, Y. Kan, C. Xu and M.O. Pun, "UniTSA: Universal Reinforcement Learning-based Traffic Signal Control Framework for V2X", accepted for publication in *IEEE Trans. on Vehicular Technology*, May 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10535743)
 - X. Ma, Q. Wu, X. Zhao, X. Zhang, M.O. Pun and B. Huang, "SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints", *IEEE Trans. on Geoscience and Remote Sensing*, vol. 62, pp. 1-16, August 2024.  [[Paper Link]](https://doi.org/10.1109/TGRS.2024.3443420)
 - Q. Wu, X. Ma, J. Sui and M.O. Pun, "DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification", *IEEE Trans. on Geoscience and Remote Sensing*, vol. 62, pp. 1-16, June 2024. [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/10556641)
