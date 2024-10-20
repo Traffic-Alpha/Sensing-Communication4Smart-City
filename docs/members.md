@@ -132,7 +132,7 @@
 
 ## **Alumni**
 ### **2024**
-- SUI Jialu （本科毕业院校：山东大学威海）, M.Phil. student, First Job: Ph.D. student at the University of Hong Kong, China
+- SUI Jialu （本科毕业院校：山东大学威海）, M.Phil. student, First Job: Ph.D. student at the University of Hong Kong, Hong Kong, China
 - LIANG, Wendi （本科毕业院校：UIC）, M.Phil. student, First Job: Ph.D. student at the University of Electronic Science and Technology of China
 - CUI Xiangyu （本科毕业院校：浙江大学）, M.Phil. student, First Job: HONOR (荣耀), Shenzhen
 - SUN Yuchao （本科毕业院校：澳门科技大学）, M.Phil. student, First Job: BYD (比亚迪)
@@ -153,7 +153,7 @@
 - YU Weikang （本科毕业院校：北京航空航天大学）, M.Phil. student, Current Job: Ph.D. student at the Technical University of Munich (TUM)
 - HU Yuxi （本科毕业院校：西北工业大学）, M.Phil. student, First Job: Ph.D. student at the Graz University of Technology, Austria
 - ZHANG Boning （本科毕业院校：北京交通大学）, M.Phil. student, First Job: Ph.D. student at the University of Glasgow. Glasgow, Scotland, United Kingdom.
-- LUO Shihao, （本科毕业院校：香港中文大学（深圳））, M.Phil. student, First Job: 大疆
+- LUO Shihao, （本科毕业院校：香港中文大学（深圳））, M.Phil. student, First Job: DJI (大疆)
 - XU Yang, Undergraduate student, First Job: Ph.D. student at the Purdue University, U.S.A.
 - LUO Wenyan, Undergraduate student, First Job: Ph.D. student at the Ohio State University, U.S.A.
 ### **2021**
@@ -162,7 +162,7 @@
 - ZHANG Qianyu, （本科毕业院校：东北大学秦皇岛）, M.Phil. student, First Job:
 - ZHAO Tong, Master student, First Job: 京东
 - WU Lan, Undergraduate student, First Job: Ph.D. student at the National University of Singapore (NUS)
-- WANG Zewei, Undergraduate student, Current Job: Ph.D. student at the Chinese University of Hong Kong, Hong Kong.
+- WANG Zewei, Undergraduate student, Current Job: Ph.D. student at the Chinese University of Hong Kong, Hong Kong, China.
 - ZHANG Chi, Undergraduate student, First Job: Ph.D. student at the Chinese University of Hong Kong, Shenzhen.
 - LI Ziwei, Undergraduate student, First Job: Master student at Rice University, U.S.A.
 ### **2020**
@@ -170,10 +170,10 @@
 - CHEN Yifei, Visiting Master student, First Job: 超星未来科技有限公司 (清华校企合作初创公司)
 - LEI Ming, Master student, First Job: 腾讯
 - XIE Yifei, Master student, First Job: Research Assistant at CUHKSZ
-- TANG Qingqing, Undergraduate student, First Job: Ph.D. student at Queen Mary University of London
+- TANG Qingqing, Undergraduate student, First Job: Ph.D. student at Queen Mary University of London, U.K.
 - LUO Shihao, Undergraduate student, First Job: M.Phil. Student at CUHKSZ
-- ZHANG Weilin, Undergraduate student, First Job: Master Student at Carnegie Mellon University
-- XIAO Ziheng, Undergraduate student, First Job: Master Student at Georgia Institute of Technology
+- ZHANG Weilin, Undergraduate student, First Job: Master Student at Carnegie Mellon University, U.S.A.
+- XIAO Ziheng, Undergraduate student, First Job: Master Student at Georgia Institute of Technology, U.S.A.
 
 ### **2019**
 - YANG Nan, Visting master student, First Job: 随手记科技
