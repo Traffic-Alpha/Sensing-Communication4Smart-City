@@ -5,7 +5,8 @@ hide:
 ---
 
 # **News**
-- **2024.10** Our recent paper on applying Unsupervised Domain Adaptation (UDA)-based semantic segmentation for remote sensing has been accepted by the *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (IF 7.5). [[Paper Link]](https://ieeexplore.ieee.org/document/10721444)
+- **2024.10** Our recent paper on Multi-scale multimodal fusion for semantic segmentation in remote sensing has been accepted by the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)* (IF 4.7). 
+- **2024.10** Our recent paper on Unsupervised Domain Adaptation (UDA)-based semantic segmentation for remote sensing has been accepted by the *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (IF 7.5). [[Paper Link]](https://ieeexplore.ieee.org/document/10721444)
 - **2024.09** Our recent paper about the impact of intervention frequencies on the performance of RL-based traffic signal control has been accepted by the *IEEE Transactions on Intelligent Transportation Systems (TITS)* (IF 7.9). [[Paper Link]](https://ieeexplore.ieee.org/document/10696929)
 - **2024.08** Mr. Maonan Wang has been offered a six-month internship position at the Bell-Labs, France. He will work on developing LLM-assisted SUMO-based simulation platform. 
 - **2024.08** Our recent paper on applying LLM to semantic segmentation on remote sensing imagery has been accepted by the *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (IF 7.5). [[Paper Link]](https://doi.org/10.1109/TGRS.2024.3443420)

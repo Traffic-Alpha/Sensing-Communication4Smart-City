@@ -1,6 +1,7 @@
 ## **Journal Papers (Since 2022)**
 ### 2024
-- X. Ma, X. Ding, X. Zhang, M.O. Pun, and S. Ma, ``Frequency Decomposition-Driven Unsupervised Domain Adaptation for Remote Sensing Image Semantic Segmentation", accepted for publication in *IEEE Trans. on Geoscience and Remote Sensing*, Oct. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10721444)
+- X. Ma, X. Xu, X. Zhang and M.O. Pun, "ASMFNet: Swin Transformer-based Adjacent-Scale Multimodal Fusion Network for Semantic Segmentation of Remote Sensing Data", accepted for publication in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, Oct. 2024.
+- X. Ma, X. Ding, X. Zhang, M.O. Pun, and S. Ma, "Frequency Decomposition-Driven Unsupervised Domain Adaptation for Remote Sensing Image Semantic Segmentation", accepted for publication in *IEEE Trans. on Geoscience and Remote Sensing*, Oct. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10721444)
 - M. Wang, Y. Chen, Y. Kan, C. Xu, M. Lepech, M.O. Pun and X. Xiong,  "Traffic Signal Cycle Control with Centralized Critic and Decentralized Actors under Varying Intervention Frequencies",  accepted for publication in *IEEE Trans. on Intelligent Transportation Systems*, Aug. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10696929)
 - M. Wang, X. Xiong, Y. Kan, C. Xu and M.O. Pun, "UniTSA: Universal Reinforcement Learning-based Traffic Signal Control Framework for V2X", *IEEE Trans. on Vehicular Technology*, vol. 73, no. 10, pp. 14354-14369, Oct. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10535743)
 - X. Ma, Q. Wu, X. Zhao, X. Zhang, M.O. Pun and B. Huang, "SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints", *IEEE Trans. on Geoscience and Remote Sensing*, vol. 62, pp. 1-16, August 2024.  [[Paper Link]](https://doi.org/10.1109/TGRS.2024.3443420)
@@ -38,8 +39,10 @@
 ## **Conference Papers (Since 2022)**
 
 ### 2024
-- L. Liu, M. Wang, M.O. Pun and X. Xiong, "A Multi-Agent Rollout Approach for Highway Bottleneck Decongenston in Mixed Autonomy", accepted for publication in the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC), Edmonton, Canada, September 24 - 27, 2024.
 - X. Cui, X. Ma, M.O. Pun, and Z. Cheng, "LTTS-GAN: A Long-term Time Series Generative Adversarial Network", accepted for publication in the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024. (invited paper)
+- L. Hou, J. Sun, H. Liang, L. Mao, G. Niu, M.O. Pun, and Z. Cheng, "Zero-Shot Learning-based Maritime Semantic Communication System", accepted for publication in the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024.	
+- Z. Yu, W. Shu, X. Guo, L. Mao, G. Niu, M.O. Pun, and Z. Cheng, "UAVs-Enabled Maritime Communications: Control Barrier Functions for Physical Secure Systems", accepted for publication in the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024. 
+- L. Liu, M. Wang, M.O. Pun and X. Xiong, "A Multi-Agent Rollout Approach for Highway Bottleneck Decongenston in Mixed Autonomy", Proc. the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC), Edmonton, Canada, September 24 - 27, 2024.
 - Y. Sun, X. Ma, Y. Yan, M.O. Pun and B. Huang, "A Novel Automated Urban Building Analysis Framework Based on GPT and SAM", Proc. the 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Athens, Greece, July 7-12, 2024. 
 - Q. Wu, X. Ma, J. Sui and M.O. Pun, "A SAM-Empowered Dual-Stream Framework for Scene-Level Local Climate Zone Classification Using Google Earth and Sentinel Images", Proc. the 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Athens, Greece, July 7-12, 2024.
 - J. Sui,  S. Xie, J. Jiang, X. Zhang and M.O. Pun, "Semantic Distortion-Aware Network with Cloud Classification for Remote Sensing Cloud Removal", Proc. the 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Athens, Greece, July 7-12, 2024.
