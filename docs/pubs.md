@@ -1,5 +1,6 @@
 ## **Journal Papers (Since 2022)**
 ### 2024
+- Y. Xie, Q. Wu, G. Niu, M.O. Pun and H. Zhu, "Online Access Scheduling in Space-Air-Ground Integrated Networks using Graph Neural Network-Enhanced Reinforcement Learning", accepted for publication in *IEEE Trans. on Vehicular Technology*, Oct. 2024.
 - X. Ma, X. Xu, X. Zhang and M.O. Pun, "ASMFNet: Swin Transformer-based Adjacent-Scale Multimodal Fusion Network for Semantic Segmentation of Remote Sensing Data", accepted for publication in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, Oct. 2024.
 - X. Ma, X. Ding, X. Zhang, M.O. Pun, and S. Ma, "Frequency Decomposition-Driven Unsupervised Domain Adaptation for Remote Sensing Image Semantic Segmentation", accepted for publication in *IEEE Trans. on Geoscience and Remote Sensing*, Oct. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10721444)
 - M. Wang, Y. Chen, Y. Kan, C. Xu, M. Lepech, M.O. Pun and X. Xiong,  "Traffic Signal Cycle Control with Centralized Critic and Decentralized Actors under Varying Intervention Frequencies",  accepted for publication in *IEEE Trans. on Intelligent Transportation Systems*, Aug. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10696929)
