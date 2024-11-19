@@ -6,10 +6,10 @@ hide:
 
 # **News**
 - **2024.11** Our recent paper on DDPM-based remote sensing image super-resolution has been accepted by the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)* (IF 4.7). 
-- **2024.11** Our recent paper on forgery localization and detection in satellite imagery has been accepted by the *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (IF 7.5). 
+- **2024.11** Our recent paper on forgery localization and detection in satellite imagery has been accepted by the *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (IF 7.5).  [[Paper Link]](https://ieeexplore.ieee.org/document/10756746)
 - **2024.10** Congratulations to our MPhil graudate, Ms. Jialu Sui, on receiving the highly prestigious Presidential Award for Outstanding Graduate Students. Each year, only 10 best graduate students are selected for the award. Jialu is pursuiting her PhD degree at The University of Hong Kong (HKU).
 - **2024.10** Our recent paper on RL-based online access scheduling for Space-Air-Ground Integrated Networks (SAGINs) has been accepted by the *IEEE Trans. on Vehicular Technology (TVT)* (IF 6.1). [[Paper Link]](https://ieeexplore.ieee.org/document/10745741)
-- **2024.10** Our recent paper on multi-scale multimodal fusion for semantic segmentation in remote sensing has been accepted by the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)* (IF 4.7). [[Paper Link]](https://ieeexplore.ieee.org/document/10736654)
+- **2024.10** Our recent paper on multi-scale multim [[Paper Link]](https://ieeexplore.ieee.org/document/10736654)odal fusion for semantic segmentation in remote sensing has been accepted by the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)* (IF 4.7).
 - **2024.10** Our recent paper on Unsupervised Domain Adaptation (UDA)-based semantic segmentation for remote sensing has been accepted by the *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (IF 7.5). [[Paper Link]](https://ieeexplore.ieee.org/document/10721444)
 - **2024.09** Our recent paper about the impact of intervention frequencies on the performance of RL-based traffic signal control has been accepted by the *IEEE Transactions on Intelligent Transportation Systems (TITS)* (IF 7.9). [[Paper Link]](https://ieeexplore.ieee.org/document/10696929)
 - **2024.08** Mr. Maonan Wang has been offered a six-month internship position at the Bell-Labs, France. He will work on developing LLM-assisted SUMO-based simulation platform. 
