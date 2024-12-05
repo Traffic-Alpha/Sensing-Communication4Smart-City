@@ -1,8 +1,9 @@
 ## **Journal Papers (Since 2022)**
-### 2024
+### 2025
 - J. Sui, X. Ma, X. Zhang, M.O. Pun and H. Wu, "Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution", accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Nov. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10763472)
-- J. Sui, D. Ma, C.-C. Jay Kuo and M.O. Pun, "FLDCF: A Collaborative Framework for Forgery Localization and Detection in Satellite Imagery", accepted for publication in  *IEEE Trans. on Geoscience and Remote Sensing*, Nov. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10756746)
 - Y. Xie, Q. Wu, G. Niu, M.O. Pun and Z. Han, "Online Scheduling for Multi-Access in Space-Air-Ground Integrated Networks using iGNNSeq-Enhanced Reinforcement Learning", accepted for publication in *IEEE Trans. on Vehicular Technology*, Oct. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10745741)
+### 2024
+- J. Sui, D. Ma, C.-C. Jay Kuo and M.O. Pun, "FLDCF: A Collaborative Framework for Forgery Localization and Detection in Satellite Imagery", *IEEE Trans. on Geoscience and Remote Sensing*, vol.62, pp. 1-13, 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10756746)
 - M. Wang, Y. Chen, Y. Kan, C. Xu, M. Lepech, M.O. Pun and X. Xiong,  "Traffic Signal Cycle Control with Centralized Critic and Decentralized Actors under Varying Intervention Frequencies", *IEEE Trans. on Intelligent Transportation Systems*, vol. 25, no. 12, pp. 20085-20104, Dec. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10696929)
 - X. Ma, X. Xu, X. Zhang and M.O. Pun, "ASMFNet: Swin Transformer-based Adjacent-Scale Multimodal Fusion Network for Semantic Segmentation of Remote Sensing Data", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 17, pp. 20116-20128, 2024, . [[Paper Link]](https://ieeexplore.ieee.org/document/10736654)
 - X. Ma, X. Ding, X. Zhang, M.O. Pun, and S. Ma, "Frequency Decomposition-Driven Unsupervised Domain Adaptation for Remote Sensing Image Semantic Segmentation", *IEEE Trans. on Geoscience and Remote Sensing*, vol. 62, pp. 1-18, 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10721444)
