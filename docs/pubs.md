@@ -1,7 +1,7 @@
 ## **Journal Papers (Since 2022)**
 ### 2025
-- J. Sui, X. Ma, X. Zhang, M.O. Pun and H. Wu, "Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution", accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Nov. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10763472)
 - Y. Xie, Q. Wu, G. Niu, M.O. Pun and Z. Han, "Online Scheduling for Multi-Access in Space-Air-Ground Integrated Networks using iGNNSeq-Enhanced Reinforcement Learning", accepted for publication in *IEEE Trans. on Vehicular Technology*, Oct. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10745741)
+- J. Sui, X. Ma, X. Zhang, M.O. Pun and H. Wu, "Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 892-906, 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10763472)
 ### 2024
 - J. Sui, D. Ma, C.-C. Jay Kuo and M.O. Pun, "FLDCF: A Collaborative Framework for Forgery Localization and Detection in Satellite Imagery", *IEEE Trans. on Geoscience and Remote Sensing*, vol.62, pp. 1-13, 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10756746)
 - M. Wang, Y. Chen, Y. Kan, C. Xu, M. Lepech, M.O. Pun and X. Xiong,  "Traffic Signal Cycle Control with Centralized Critic and Decentralized Actors under Varying Intervention Frequencies", *IEEE Trans. on Intelligent Transportation Systems*, vol. 25, no. 12, pp. 20085-20104, Dec. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10696929)
@@ -43,9 +43,9 @@
 ## **Conference Papers (Since 2022)**
 
 ### 2024
-- X. Cui, X. Ma, M.O. Pun, and Z. Cheng, "LTTS-GAN: A Long-term Time Series Generative Adversarial Network", accepted for publication in the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024. (invited paper)
-- L. Hou, J. Sun, H. Liang, L. Mao, G. Niu, M.O. Pun, and Z. Cheng, "Zero-Shot Learning-based Maritime Semantic Communication System", accepted for publication in the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024.	
-- Z. Yu, W. Shu, X. Guo, L. Mao, G. Niu, M.O. Pun, and Z. Cheng, "UAVs-Enabled Maritime Communications: Control Barrier Functions for Physical Secure Systems", accepted for publication in the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024. 
+- X. Cui, X. Ma, M.O. Pun, and Z. Cheng, "LTTS-GAN: A Long-term Time Series Generative Adversarial Network", Proc. the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024. (Received the Outstanding Paper Award)
+- L. Hou, J. Sun, H. Liang, L. Mao, G. Niu, M.O. Pun, and Z. Cheng, "Zero-Shot Learning-based Maritime Semantic Communication System", Proc. the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024. (Received the Outstanding Paper Award)
+- Z. Yu, W. Shu, X. Guo, L. Mao, G. Niu, M.O. Pun, and Z. Cheng, "UAVs-Enabled Maritime Communications: Control Barrier Functions for Physical Secure Systems", Proc. the 9th EAI SmartGIFT, Hong Kong, China, December 9-11, 2024. 
 - L. Liu, M. Wang, M.O. Pun and X. Xiong, "A Multi-Agent Rollout Approach for Highway Bottleneck Decongenston in Mixed Autonomy", Proc. the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC), Edmonton, Canada, September 24 - 27, 2024.
 - Y. Sun, X. Ma, Y. Yan, M.O. Pun and B. Huang, "A Novel Automated Urban Building Analysis Framework Based on GPT and SAM", Proc. the 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Athens, Greece, July 7-12, 2024. 
 - Q. Wu, X. Ma, J. Sui and M.O. Pun, "A SAM-Empowered Dual-Stream Framework for Scene-Level Local Climate Zone Classification Using Google Earth and Sentinel Images", Proc. the 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Athens, Greece, July 7-12, 2024.

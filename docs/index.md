@@ -5,6 +5,7 @@ hide:
 ---
 
 # **News**
+- **2024.12** Two of our papers received the Outstanding Paper Award at the 9th EAI SmartGIFT Conference held in Hong Kong, China, December 9-11, 2024. Congratulations to Xiangyu and Xianping! 
 - **2024.11** Congratulations to our five students, Maonan, Aoyu, Ziyao, Ricca and Yu for winning the second prize (fourth place) in this year’s Tencent Kaiwu Global AI Competition (腾讯开悟人工智能全球公开赛), under the Intelligent Traffic Signal Scheduling track. The competition drew an impressive 2,038 teams from 388 universities worldwide.
 - **2024.11** Ms. Jialu Sui, a MPhil graduate from our lab, delivered a speech on behalf of the graduates in the 2024 postgraduate graduation ceremony held on Nov. 16, 2024. [[Report]](https://mp.weixin.qq.com/s/CfArulHxwJeMIiKWHgX8wg) 
 - **2024.11** Our recent paper on DDPM-based remote sensing image super-resolution has been accepted by the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)* (IF 4.7). [[Paper Link]](https://ieeexplore.ieee.org/document/10763472)
