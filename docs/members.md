@@ -23,7 +23,7 @@
             <img src="../assets/images/members/wangmaonan.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="" target="_self">WANG Maonan</a></div>
+            <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=i5uLlWIAAAAJ&hl=en&oi=ao" target="_self">WANG Maonan</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本硕毕业院校：北京邮电大学</div>
             <div>Reinforcement Learning, Intelligent Transportation System (ITS)</div>
@@ -35,7 +35,7 @@
             <img src="../assets/images/members/MaXianping.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="" target="_self">MA Xianping</a></div>
+            <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=YpIBfOkAAAAJ&hl=en&oi=ao" target="_self">MA Xianping</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本科毕业院校：武汉大学</div>
             <div>Multimodal Fusion, Remote Sensing, Machine Learning</div>
@@ -47,7 +47,7 @@
             <img src="../assets/images/members/xieyuejiao.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="" target="_self">XIE Yujiao</a></div>
+            <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=BiSmGpwAAAAJ&hl=en&oi=ao" target="_self">XIE Yujiao</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 毕业院校：深圳大学（本科）, 香港中文大学（深圳）（硕士）</div>
             <div>Reinforcement Learning, Machine learning, Communication networks</div>
@@ -59,7 +59,7 @@
             <img src="../assets/images/members/wuqianqian.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="" target="_self">WU Qianqian</a></div>
+            <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=qXgwZswAAAAJ&hl=en&oi=ao" target="_self">WU Qianqian</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本硕毕业院校：中国地质大学（武汉）</div>
             <div>Reinforcement learning, Location coverage problems, Sensor configuration</div>
@@ -83,7 +83,7 @@
             <img src="../assets/images/members/PangAoYu.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
         </div>
         <div>
-            <div style="font-weight: bold;"><a href="" target="_self">PANG Aoyu</a></div>
+            <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=b_aQODcAAAAJ&hl=en&scioq=ding+ma+cuhksz&oi=ao" target="_self">PANG Aoyu</a></div>
             <div style="font-weight: bold;">Ph.D. Student</div>
             <div> 本科毕业院校：南京航空航天大学</div>
             <div>Reinforcement Learning, Intelligent Transportation</div>
@@ -95,7 +95,7 @@
     <img src="../assets/images/members/wangziyao.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; object-position: top; margin-right: 20px;">
     </div>
     <div>
-    <div style="font-weight: bold;"><a href="" target="_self">WANG Ziyao</a></div>
+    <div style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=H5GQ1SYAAAAJ&hl=en&scioq=ding+ma+cuhksz&oi=sra" target="_self">WANG Ziyao</a></div>
     <div style="font-weight: bold;">Ph.D. Student</div>
     <div> 本硕毕业院校：西安电子科技大学</div>
     <div>Remote Sensing, Cloud Removal, Machine Learning</div>
@@ -114,13 +114,24 @@
             <div>Mail: <a href="mailto:xieweifeng [at] link.cuhk.edu.cn">xieweifeng [at] link.cuhk.edu.cn</a></div>
         </div>
     </div>
+ <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 48%;">
+<div style="flex-shrink: 0;">
+<img src="../assets/images/members/WangSiJin.jpg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; margin-right: 20px;">
+</div>
+<div>
+<div style="font-weight: bold;"><a href="" target="_self">WANG Sijin</a></div>
+<div style="font-weight: bold;">M.Phil. Student</div>
+<div> 本科毕业院校：东北大学秦皇岛</div>
+<div>Machine learning, IoT</div>
+<div>Mail: <a href="mailto:xieweifeng [at] link.cuhk.edu.cn">224015101 [at] link.cuhk.edu.cn</a></div>
+</div>
+</div>
 </div>
 
 ## **Research Assistants**
 - Lin Kexin (硕士毕业于北京交通大学)
 - HU Yin (硕士毕业于Rice University, U.S.)
 - LUO Yixin (硕士毕业于中科院)
-- WANG Sijin (本科毕业于东北大学秦皇岛)
 
 ## **Undergraduate Students**
 - LI Yutao
