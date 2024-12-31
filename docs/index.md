@@ -5,6 +5,7 @@ hide:
 ---
 
 # **News**
+- **2024.12** Congratulations to our PhD student, Mr. Xianping Ma, on receiving the highly competetive Guotai Junan Scholarship (国泰君安筑梦强国奖学金).
 - **2024.12** Congratulations to our second-year Ph.D. student, Mr. Aoyu Pang, for securing a six-month internship at Bell Labs, France! During his internship, he will focus on RL-based optimization. Aoyu becomes the third Ph.D. student from our team to intern at Bell Labs, France.
 - **2024.12** Two of our papers received the Outstanding Paper Award at the 9th EAI SmartGIFT Conference held in Hong Kong, China, December 9-11, 2024. Congratulations to Xiangyu and Xianping! 
 - **2024.11** Congratulations to our five students, Maonan, Aoyu, Ziyao, Ricca and Yu for winning the second prize (fourth place) in this year’s Tencent Kaiwu Global AI Competition (腾讯开悟人工智能全球公开赛), under the Intelligent Traffic Signal Scheduling track. The competition drew an impressive 2,038 teams from 388 universities worldwide. [[News Report]](https://mp.weixin.qq.com/s/vZrbnT8KM0Vuen5QrZHAxQ) 
