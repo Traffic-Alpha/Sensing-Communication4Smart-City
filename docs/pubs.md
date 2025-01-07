@@ -2,7 +2,7 @@
 
 ## **Journal Papers (Since 2022)**
 ### 2025
-- Z. Sha, C. Li, W. Yue, N. Cheng, Y. Hui, <ins>A. Pang</ins>, <ins>M.O. Pun</ins>, Z. Sun and Y. Yang, ``Pioneering Air-Ground Integrated Mobility: A Knowledge-Driven Space-Air-Ground Integrated Network for 6G On-Demand Service", accepted for publication in *IEEE Network Mag.*, Jan. 2025.
+- Z. Sha, C. Li, W. Yue, N. Cheng, Y. Hui, <ins>A. Pang</ins>, <ins>M.O. Pun</ins>, Z. Sun and Y. Yang, ``Pioneering Air-Ground Integrated Mobility: A Knowledge-Driven Space-Air-Ground Integrated Network for 6G On-Demand Service", accepted for publication in *IEEE Network Mag.*, Jan. 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10829629)
 - <ins>Y. Xie</ins>, <ins>Q. Wu</ins>, <ins>G. Niu</ins>, <ins>M.O. Pun</ins> and Z. Han, "Online Scheduling for Multi-Access in Space-Air-Ground Integrated Networks using iGNNSeq-Enhanced Reinforcement Learning", accepted for publication in *IEEE Trans. on Vehicular Technology*, Oct. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10745741)
 - <ins>J. Sui</ins>, <ins>X. Ma</ins>, <ins>X. Zhang</ins>, <ins>M.O. Pun</ins> and H. Wu, "Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 892-906, 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10763472)
 ### 2024
