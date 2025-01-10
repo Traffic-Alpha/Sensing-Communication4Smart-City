@@ -5,7 +5,7 @@ hide:
 # **Demo**
 
 ### 1. A video demonstrating the drone squad-based surveillance system for in(out)door environments. [[Video]](../assets/videos/DroneSquad.mp4)
-。。
+
 ### 2. A video demonstrating the autonomous Landing system developed for UAV in the following papers. [[Video]](../assets/videos/UAV-landing.mp4)
 + G. Niu, L. Wu, Y. Gao and M.O. Pun, Unmanned Aerial Vehicle (UAV)-Assisted Path Planning for Unmanned Ground Vehicles (UGVs) via Disciplined Convex-Concave Programming, accepted for publication in the IEEE Trans. on Vehicular Technology, April 2022.
 + G. Niu, Q. Yang, Y. Gao, M.O. Pun, Vision-based Autonomous Landing for Unmanned Aerial and Mobile Ground Vehicles Cooperative Systems, the IEEE Robotics and Automation Letters (RA-L), Vol.7, pp. 6234-6241, Jul. 2022.
