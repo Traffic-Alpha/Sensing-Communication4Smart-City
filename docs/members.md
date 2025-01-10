@@ -134,9 +134,8 @@
 - LUO Yixin (硕士毕业于中科院)
 
 ## **Undergraduate Students**
-- LI Yutao
-- KANG Zimo
-- WU Yanrui
+- ZHENG Jingze
+- GUO Zhaonian
 - LIU Yu
 - YIN Hongrui
 - WU Yueyan

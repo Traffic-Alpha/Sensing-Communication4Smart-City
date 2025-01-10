@@ -1,10 +1,11 @@
-# **Publications** <span style="font-size: 20px;">*（Underlined <ins>authors</ins> are lab members or alumni)*</span> 
+# **Publications** <span style="font-size: 20px;">*（Underlined <ins>authors</ins> are current or former lab members)*</span> 
 
 ## **Journal Papers (Since 2022)**
 ### 2025
 - Z. Sha, C. Li, W. Yue, N. Cheng, Y. Hui, <ins>A. Pang</ins>, <ins>M.O. Pun</ins>, Z. Sun and Y. Yang, ``Pioneering Air-Ground Integrated Mobility: A Knowledge-Driven Space-Air-Ground Integrated Network for 6G On-Demand Service", accepted for publication in *IEEE Network Mag.*, Jan. 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10829629)
 - <ins>Y. Xie</ins>, <ins>Q. Wu</ins>, <ins>G. Niu</ins>, <ins>M.O. Pun</ins> and Z. Han, "Online Scheduling for Multi-Access in Space-Air-Ground Integrated Networks using iGNNSeq-Enhanced Reinforcement Learning", accepted for publication in *IEEE Trans. on Vehicular Technology*, Oct. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10745741)
-- <ins>J. Sui</ins>, <ins>X. Ma</ins>, <ins>X. Zhang</ins>, <ins>M.O. Pun</ins> and H. Wu, "Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 892-906, 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10763472)
+- <ins>J. Sui</ins>, <ins>X. Ma</ins>, <ins>X. Zhang</ins>, <ins>M.O. Pun</ins> and H. Wu, "Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 18, pp. 892-906, 2025. [[Paper Link]](https://ieeexplore.ieee.org/document/10763472)
+
 ### 2024
 - <ins>J. Sui</ins>, <ins>D. Ma</ins>, C.-C. Jay Kuo and <ins>M.O. Pun</ins>, "FLDCF: A Collaborative Framework for Forgery Localization and Detection in Satellite Imagery", *IEEE Trans. on Geoscience and Remote Sensing*, vol.62, pp. 1-13, 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10756746)
 - <ins>M. Wang</ins>, Y. Chen, Y. Kan, C. Xu, M. Lepech, <ins>M.O. Pun</ins> and X. Xiong,  "Traffic Signal Cycle Control with Centralized Critic and Decentralized Actors under Varying Intervention Frequencies", *IEEE Trans. on Intelligent Transportation Systems*, vol. 25, no. 12, pp. 20085-20104, Dec. 2024. [[Paper Link]](https://ieeexplore.ieee.org/document/10696929)
@@ -22,7 +23,6 @@
 - <ins>A. Pang</ins>, <ins>M. Wang</ins>, Y. Chen, <ins>M.O. Pun</ins> and M. Lepechand, "Scalable Reinforcement Learning Framework for Traffic Signal Control under Communication Delays”, *IEEE Open Journal of Vehicular Technology*,  vol. 5, pp. 330 - 343, March 2024. [[Paper Link]](https://ieeexplore.ieee.org/iel7/8782711/8889399/10443835.pdf)
 
 ### 2023
-
 - <ins>M. Yuan</ins>, <ins>M.O. Pun</ins> and D. Wang, "Renyi State Entropy Maximization for Exploration Acceleration in Reinforcement Learning”, *IEEE Trans. on Artificial Intelligence*, vol. 4, pp. 1154 - 1164, October 2023.
 - <ins>X. Ma</ins>, <ins><ins>Y. Hu</ins>ang</ins>, <ins>X. Zhang</ins>, <ins>M.O. Pun</ins> and B. Huang, "Cloud-EGAN: Rethinking CycleGAN From a Feature Enhancement Perspective for Cloud Removal by Combining CNN and Transformer”, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 16, pp. 4999-5012, June 2023.
 - <ins>J. Sui</ins>, <ins>X. Ma</ins>, <ins>X. Zhang</ins> and <ins>M.O. Pun</ins>, "GCRDN: Global Context-driven Residual Dense Network for remote sensing image super-resolution”, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 16, pp. 4457-4468, May 2023.
@@ -31,7 +31,6 @@
 - H. Ma, K. Yang and <ins>M.O. Pun</ins>, "Cellular traffic prediction via deep state space models with attention mechanism”, *Computer Communications*, vol. 197, pp. 276-283, January 2023.
 
 ### 2022
-
 - <ins>M. Yuan</ins>, <ins>Q. Cao</ins>, <ins>M.O. Pun</ins> and Y. Chen, "Fairness-Oriented User Scheduling for Bursty Downlink Transmission Using Multi-Agent Reinforcement Learning”, *APSIPA Transactions on Signal and Information Processing*,  vol. 11, Issue 1, October 2022.
 - <ins>G. Niu</ins>, <ins>L. Wu</ins>, <ins>Y. Gao</ins> and <ins>M.O. Pun</ins>, "Unmanned Aerial Vehicle (UAV)-Assisted Path Planning for Unmanned Ground Vehicles (UGVs) via Disciplined Convex-Concave Programming”, *IEEE Trans. on Vehicular Technology*, Vol. 71, pp. 6996-7007, July 2022.
 - <ins>Q. Cao</ins>, <ins>M.O. Pun</ins> and Y. Chen, "Deep Learning in Network-Level Performance Prediction Using Cross-Layer Information”,  *IEEE Trans. on Network Science and Engineering*, Vol.9, pp. 2364-2377, July-August 2022.
@@ -57,7 +56,6 @@
 - <ins>W. Liang</ins>, <ins>Z. Wang</ins>, <ins>S. Guo</ins> and <ins>M.O. Pun</ins>, "Real-Time 3D Indoor Positioning with Human Activity Transition Recognition on Mobile Devices", Proc. IEEE International Conference in Communications (ICC), Denver, U.S.A, June 9 – 13, 2024.
 
 ### 2023
-
 - <ins>Z. Liu</ins>, <ins>S. Guo</ins> and <ins>M.O. Pun</ins>, "Dense Three-Dimensional Color Reconstruction for Large-Scale Outdoor Scenes", accepted for publication at the 2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Taipei, Oct. 31 - Nov. 3, 2023.
 - <ins>J. Sui</ins>, <ins>X. Ma</ins>, <ins>X. Zhang</ins> and <ins>M.O. Pun</ins>, "DTRN: Dual Transformer residual networks for remote sensing super-resolution", Proc. the 2023 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Pasadena, CA, U.S.A., July 16-21, 2023.
 - <ins>X. Ma</ins>, <ins>M.O. Pun</ins>, M. Liu and  Y. Wang, "Machine Learning-based Approach for Landslide Susceptibility Mapping Using Multimodal Data", Proc. the 2023 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Pasadena, CA, U.S.A., July 16-21, 2023.
@@ -69,7 +67,6 @@
 - <ins>M. Wang</ins>, <ins>Y. Xu</ins>, X. Xiong, Y. Kan, C. Xu and <ins>M.O. Pun</ins>, "A Universal Approach of Traffic Signal Control with Augmented Data Using Reinforcement Learning”, Proc. the Transportation Research Board (TRB) Annual Meeting 2023, Washington, D.C., U.S.A., Jan. 8–12, 2023.
 
 ### 2022
-
 - <ins>M. Yuan</ins> and <ins>M.O. Pun</ins>, "Exploring Beyond-Demonstrator via Meta Learning-Based Reward Extrapolation”, Proc. the 2022 IEEE Symposium Series On Computational Intelligence (SSCI), Singapore, Dec. 4-7, 2022.
 - <ins>Y. Xie</ins>, <ins>J. Tang</ins>, <ins>N. Yang</ins> and <ins>M.O. Pun</ins>, "Large-Scale Multi-Channel Transformer-based Speaker Identification with Knowledge Transfer Using Harmonic-Percussive Source Separation", Proc. the 31st Wireless and Optical Communications Conference (WOCC), Shenzhen, China, August 11-12, 2022.
 - <ins>B. Zhang</ins>, <ins>X. Zhang</ins>, <ins>M.O. Pun</ins> and M. Liu, "Prototype-based clustered Federated Learning for Semantic Segmentation of Aerial Images", Proc. the 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Kuala Lumpur, Malaysia, July 17-22, 2022.
