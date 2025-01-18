@@ -1,0 +1,862 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://mypage.cuhk.edu.cn/academics/simonpun/pi/">
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/cuhk_logo.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+    
+    
+      
+        <title>Pi - Laboratory of Sensing and Communication for Smart City</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6f8fc17f.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="white" data-md-color-primary="white" data-md-color-accent="white">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Laboratory of Sensing and Communication for Smart City" class="md-header__button md-logo" aria-label="Laboratory of Sensing and Communication for Smart City" data-md-component="logo">
+      
+  <img src="../assets/images/zh-hans_logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Laboratory of Sensing and Communication for Smart City
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Pi
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="white" data-md-color-primary="white" data-md-color-accent="white"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href=".." class="md-tabs__link">
+          
+  
+    
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../members/" class="md-tabs__link">
+        
+  
+    
+  
+  Members
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../projects/" class="md-tabs__link">
+        
+  
+    
+  
+  Projects
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../pubs/" class="md-tabs__link">
+        
+  
+    
+  
+  Publications
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../join/" class="md-tabs__link">
+        
+  
+    
+  
+  Join Us
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../demo/" class="md-tabs__link">
+        
+  
+    
+  
+  Demo
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Laboratory of Sensing and Communication for Smart City" class="md-nav__button md-logo" aria-label="Laboratory of Sensing and Communication for Smart City" data-md-component="logo">
+      
+  <img src="../assets/images/zh-hans_logo.png" alt="logo">
+
+    </a>
+    Laboratory of Sensing and Communication for Smart City
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href=".." class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../news/2024/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../news/2023/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2023
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../news/2022/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2022
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../news/2021/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2021
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../news/2020/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2020
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../news/2018_2019/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2018 & 2019
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../members/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Members
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../projects/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Projects
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pubs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Publications
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../join/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Join Us
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../demo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Demo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.1">
+    <style>
+        /* 设置缩放效果 */
+        body {
+            zoom: 1.05; /* 缩放110% */
+        }
+    </style>
+</head>
+</html>
+
+
+
+<!-- Your page content starts here -->
+
+                  
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <title>Markdown with Sidebar</title> -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+        #sidebar {
+            width: 200px;
+            padding: 15px;
+            background: none;
+            position: fixed;  /* 侧边栏固定 */
+            height: 100%;  /* 高度为100% */
+            overflow-y: auto;  /* 如果内容过长，允许滚动 */
+        }
+        #content {
+            margin-left: 220px;  /* 确保内容部分不与侧边栏重叠 */
+            padding: 15px;
+            flex-grow: 1;  /* 确保内容部分占据剩余空间 */
+        }
+        #sidebar a {
+            display: block;
+            color: #000;
+            padding: 5px 0;  /* 调整上下间距 */
+            text-decoration: none;
+        }
+        #sidebar a:hover {
+            background: none;  /* 鼠标悬停时不变色 */
+        }
+        h2 {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="sidebar">
+    <a href="#section1">Biography</a>
+    <a href="#section2">Education Background</a>
+    <a href="#section3">Selected Publications</a>
+</div>
+
+<div id="content">
+    <h1><strong>Principal Investigator</strong></h1>
+    <div align="center">
+        <img src="../assets/images/members/director.png" style="width: 20%">
+        <br>
+        <div style="font-weight: bold;">Prof. Simon Pun, Acting Master of Harmonia College</div>
+    </div>
+
+    <h2 id="section1"><strong>Biography</strong></h2>
+    <p>Prof. Pun received the B.Eng. degree in electronic engineering from The Chinese University of Hong Kong (CUHK) in 1996, the M.Eng. degree in computer science from the University of Tsukuba, Tsukuba, Japan, in 1999, and the Ph.D. degree in electrical engineering from the University of Southern California (USC), Los Angeles, CA, USA, in 2006. He was a Post-Doctoral Research Associate with Princeton University, Princeton, NJ, USA, from 2006 to 2008.</p>
+
+    <p>Prior to joining CUHK(SZ) in 2015, Prof. Simon Pun held research positions at Huawei (USA), Mitsubishi Electric (Boston) and Sony (Tokyo). He has led multimillion-dollar channel measurement/modeling projects for LTE femto cells, Japanese high-speed bullet trains and most recently, multi-polarized LTE macro and small cells. His current research is funded by the Ministry of Science and Technology of China, the National Natural Science Foundation of China, the Shenzhen Science and Technology Innovation and Huawei Technologies. He is the vice-director of the Shenzhen Key Laboratory of IoT Intelligent Systems and Wireless Network Technology and the director of a few joint research labs including the CUHK(SZ) - DeRUCCI Joint Laboratory of Smart Home Technology established in 2022.</p>
+
+    <p>Prof. Pun has published more than 120 technical publications. He also holds 12 granted patents including LTE essential patents. Among his publications, his book entitled “Multi-Carrier Techniques for Broadband Wireless Communications” is collected by 2000 libraries worldwide including the M.I.T. library. Dr. Pun has received three prestigious best paper awards including IEEE VTC'06 Fall, IEEE ICC'08 and IEEE Infocom'09.</p>
+
+    <p>Prof. Pun served as associate editor in the channel modeling track for the IEEE Transactions on Wireless Communications in 2010 - 2014. He has chaired the 31st Wireless and Optical Communications Conference (WOCC), Shenzhen in 2022.8 and co-chaired the Wireless Communications Symposium (WCS) for ICC'2012 and ICC'2020, one of the two flagship conferences organized by the IEEE ComSoc. Dr. Pun is a senior member of IEEE. He is the founding chair of the IEEE Shenzhen Joint ComSoc-SPS Chapter.</p>
+
+    <p>At CUHKSZ, Professor Pun has served as the assistant dean (student affairs) for the School of Science and Engineering (2015-2019), the director for the Nobel Class (the elite class of the University) since 2018, the acting college master for Muse College (2016-2017), and the associate college master for Harmonia College (since 2020), the Assembly Fellow of Diligentia College (2016-2022), the founding director of the Undergraduate Student Teaching Fellow (USTF) program (since 2016), the Program Coordinator for the Electronic and Information Engineering (EIE) (2015-2022) and the vice-director of the Maker Lab (since 2019).</p>
+
+    <h2 id="section2"><strong>Education Background</strong></h2>
+    <ul>
+        <li><strong>2006-2008</strong>, Postdoctoral Research Associate, <em>Princeton University</em>, U.S.A</li>
+        <li><strong>2006</strong>, Ph.D. in Electrical Engineering, <em>University of Southern California</em>, U.S.A</li>
+        <li><strong>1999</strong>, MEng. in Computer Sciences, <em>University of Tsukuba</em>, Japan</li>
+        <li><strong>1996</strong>, BEng. in Electronic Engineering, <em>The Chinese University of Hong Kong</em>, Hong Kong</li>
+    </ul>
+
+    <h2 id="section3"><strong>Selected Publications</strong></h2>
+    <ul>
+        <li>M.O. Pun, M. Morelli and C.-C. Kuo, Multi-Carrier Techniques For Broadband Wireless Communications: A Signal Processing Perspectives, Imperial College Press, U.K. 2007. <a href="https://books.google.co.uk/books?hl=zh-CN&lr=&id=zl-7CgAAQBAJ&oi=fnd&pg=PR7&dq=Multi-Carrier+Techniques+For+Broadband+Wireless+Communications&ots=E4D4_xRom-&sig=ObnyBEVO-U-k55MAIr3DG2Dqv5A">[Book Link]</a></li>
+    </ul>
+</div>
+
+</body>
+</html>
+
+<!-- # **Principal Investigator**
+
+<div align=center>
+<img src='../assets/images/members/director.png' style="width: 20%">
+<br>
+<div style="font-weight: bold;">Prof. Simon Pun, Dean of Harmonia College</div>
+</div>
+
+## **Biography**
+
+Prof. Pun received the B.Eng. degree in electronic engineering from The Chinese University of Hong Kong (CUHK) in 1996, the M.Eng. degree in computer science from the University of Tsukuba, Tsukuba, Japan, in 1999, and the Ph.D. degree in electrical engineering from the University of Southern California (USC), Los Angeles, Los Angeles, CA, USA, in 2006. He was a Post-Doctoral Research Associate with Princeton University, Princeton, NJ, USA, from 2006 to 2008.
+
+Prior to joining CUHK(SZ) in 2015, Prof. Simon Pun held research positions at Huawei (USA), Mitsubishi Electric (Boston) and Sony (Tokyo). He has led multimillion-dollar channel measurement/modeling projects for LTE femto cells, Japanese high-speed bullet trains and most recently, multi-polarized LTE macro and small cells. His current research is funded by the Ministry of Science and Technology of China, the National Natural Science Foundation of China, the Shenzhen Science and Technology Innovation and Huawei Technologies. He is the vice-director of the Shenzhen Key Laboratory of IoT Intelligent Systems and Wireless Network Technology and the director of a few joint research labs including the CUHK(SZ) - DeRUCCI Joint Laboratory of Smart Home Technology established in 2022.
+
+Prof. Pun has published more than 120 technical publications. He also holds 12 granted patents including LTE essential patents. Among his publications, his book entitled “Multi-Carrier Techniques for Broadband Wireless Communications” is collected by 2000 libraries worldwide including the M.I.T. library. Dr. Pun has received three prestigious best paper awards including IEEE VTC'06 Fall, IEEE ICC'08 and IEEE Infocom'09.
+
+Prof. Pun served as associate editor in the channel modeling track for the IEEE Transactions on Wireless Communications in 2010 - 2014. He has chaired the 31st Wireless and Optical Communications Conference (WOCC), Shenzhen in 2022.8 and co-chaired the Wireless Communicaitons Symposium (WCS) for ICC'2012 and ICC'2020, one of the two flagship conferences organized by the IEEE ComSoc. Dr. Pun is a senior member of IEEE. He is the founding chair of the IEEE Shenzhen Joint ComSoc-SPS Chapter.
+
+At CUHKSZ, Professor Pun has served as the assistant dean (student affairs) for the School of Science and Engineering (2015-2019), the director for the Nobel Class (the elite class of the University) since 2018, the acting college master for Muse College (2016-2017), and the associate college master for Harmonia College (since 2020), the Assembly Fellow of Diligentia College (since 2016), the founding director of the Undergraduate Student Teaching Fellow (USTF) program (since 2016), the Program Coordinator for the Electronic and Information Engineering (EIE) (2015-2022) and the vice-director of the Maker Lab ( since 2019). 
+
+## **Education Background**
+- **2006-2008**, Postdoctoral Fellow, *Princeton University*, U.S.A
+- **2006**, Doctor of Philosophy, *University of Southern California*, U.S.A
+- **1999**, Master of Engineering, *University of Tsukuba*, Japan
+- **1996**, Bachelor of Engineering, *The Chinese University of Hong Kong*, Hong Kong
+
+## **Seclected Publications**
+- M.O. Pun, M. Morelli and C.-C. Kuo, Multi-Carrier Techniques For Broadband Wireless Communications: A Signal Processing Perspectives, Imperial College Press, U.K. 2007. [[Book Link]](https://books.google.co.uk/books?hl=zh-CN&lr=&id=zl-7CgAAQBAJ&oi=fnd&pg=PR7&dq=Multi-Carrier+Techniques+For+Broadband+Wireless+Communications&ots=E4D4_xRom-&sig=ObnyBEVO-U-k55MAIr3DG2Dqv5A) -->
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  
+
+
+
+                
+
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; LSCSC 2024 All rights reserved. <span style='color: #161616;'>Designed by YUAN Mingqi and WANG Maonan.</span>
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="simonpun@cuhk.edu.cn" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4l217.6 163.2c11.4 8.5 27 8.5 38.4 0l217.6-163.2c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48zM0 176v208c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V176L294.4 339.2a63.9 63.9 0 0 1-76.8 0z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="+86-0755-23519520" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64c0 247.4 200.6 448 448 448 18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368c-70.4-33.3-127.4-90.3-160.7-160.7l49.3-40.3c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["toc.integrate", "navigation.footer", "navigation.indexes", "navigation.sections", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "content.code.select", "content.code.copy", "content.code.select"], "search": "../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      
+        <script src="../assets/stylesheets/extra.js"></script>
+      
+        <script src="../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,272 @@
+/*header{*/
+/*    background: rgb(100, 0, 120);*/
+/*    height: 100%;*/
+/*    left: 0;*/
+/*    top: 0;*/
+/*    !*transition: right .3s ease,width .3s ease;*!*/
+/*    width: 110px;*/
+/*}*/
+.group_photo{
+    position: relative;
+    width: 100%;
+    left: 0
+}
+
+body{
+    background-image: url("../images/uav2.png");
+    background-size: 100%;
+    /*background: rgb(0,83,214);*/
+    /*overflow-x:hidden;*/
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+a{
+    background-color: transparent;
+    text-decoration: none;
+    display: block;
+    color: rgb(255,255,255);
+    font: 14px/18px "Deepmind Sans",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    padding: 12px 0;
+}
+
+hr{
+    width:100%;
+    margin:0 auto;
+    border: 0;
+    height: 0;
+    border-top: 0 solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);}
+
+span{
+    display: block;
+    padding: 25px;
+    text-align: center;
+}
+
+h3{
+    margin: 4px;
+}
+
+h5{
+    margin: 0;
+}
+
+.left_bar{
+    background: rgb(100, 0, 120);
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    /*transition: right .3s ease,width .3s ease;*/
+    width: 110px;
+}
+
+.menu_bar{
+
+}
+.menu_bar:hover{
+    background-color: #ffdb13;
+    width: 120%;
+}
+
+.lab_logo{
+    position: fixed;
+    left: 15px;
+    top: 30px;
+    /*transition: right .3s ease,width .3s ease;*/
+    /*-webkit-transition:width .2s;*/
+}
+
+.github_logo{
+    position: fixed;
+    left: 35px;
+    top: 510px;
+}
+
+.mail_logo{
+    position: fixed;
+    left: 35px;
+    top: 580px;
+}
+
+.linkedin_logo{
+    position: fixed;
+    left: 35px;
+    top: 650px;
+}
+
+.main_menu{
+    width: 70px;
+    position: fixed;
+    top: 220px;
+    left: 20px;
+}
+
+.main_page{
+    position: absolute;
+    /*background-image: url("../images/uav3.jpg");*/
+    /*background-size: 93%;*/
+    /*background-repeat: no-repeat;*/
+    left: 110px;
+    right: 0;
+    height: 100%;
+}
+
+
+.main_page_title{
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 240px;
+    font: 14px/18px "Deepmind Sans",Helvetica,Arial,sans-serif;
+    font-size: 40px;
+    color: rgb(100, 0, 120);
+    padding: 0;
+}
+
+.chinese_title{
+    display: block;
+    position: absolute;
+    left: 450px;
+    top: 75px;
+    padding: 0;
+}
+.chinese_title_pic{
+    width: 60%;
+}
+
+.team{
+    position: relative;
+    width: 95%;
+    left: 3%;
+    right: 3%;
+}
+
+.person_img_loc{
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+.person_img{
+    height: 200px;
+    /*width: 200px;*/
+    border-radius: 100px;
+}
+
+.person_link{
+    color: black;
+    display: block;
+    padding: 12px 5px;
+}
+.person_link:hover{
+    background: #ffdb13;
+}
+
+.person_introd{
+    display: inline-block;
+    position: relative;
+    width: 350px;
+    top: 0;
+    left: 60px;
+    text-align: left;
+}
+.director{
+    display: block;
+    background: #f5ffff;
+    width: 650px;
+    height: 240px;
+    border: 2px solid rgb(100, 0, 120);
+    margin: 10px 5px;
+    text-align: justify;
+    border-radius: 30px;
+    /*vertical-align: middle;*/
+}
+
+.partner{
+    display: block;
+    background: #f5ffff;
+    width: 650px;
+    height: 240px;
+    border: 2px solid deeppink;
+    margin: 10px 5px;
+    text-align: justify;
+    border-radius: 30px;
+    /*vertical-align: middle;*/
+}
+
+.prf{
+    display: inline-block;
+    background: #f5ffff;
+    width: 650px;
+    height: 240px;
+    border: 2px solid darkred;
+    margin: 10px 5px;
+    text-align: justify;
+    border-radius: 30px;
+    vertical-align: middle;
+}
+
+.phd{
+    display: inline-block;
+    background: #f5ffff;
+    width: 650px;
+    height: 240px;
+    border: 2px solid green;
+    margin: 10px 5px;
+    text-align: justify;
+    border-radius: 30px;
+    vertical-align: middle;
+}
+
+.mphil{
+    display: inline-block;
+    background: #f5ffff;
+    width: 650px;
+    height: 240px;
+    border: 2px solid blue;
+    margin: 10px 5px;
+    text-align: justify;
+    border-radius: 30px;
+    vertical-align: middle;
+}
+
+.undergraduate{
+    display: inline-block;
+    background: #f5ffff;
+    width: 650px;
+    height: 240px;
+    border: 2px solid orangered;
+    margin: 10px 5px;
+    text-align: justify;
+    border-radius: 30px;
+    vertical-align: middle;
+}
+
+.research_assistant{
+    display: inline-block;
+    background: #f5ffff;
+    width: 650px;
+    height: 240px;
+    border: 2px solid saddlebrown;
+    margin: 10px 5px;
+    text-align: justify;
+    border-radius: 30px;
+    vertical-align: middle;
+}
+
+.alumni{
+    display: inline-block;
+    background: #f5ffff;
+    width: 650px;
+    height: 240px;
+    border: 2px solid forestgreen;
+    margin: 10px 5px;
+    text-align: justify;
+    border-radius: 30px;
+    vertical-align: middle;
+}

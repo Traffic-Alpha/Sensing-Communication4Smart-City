@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.1">
+    <style>
+        /* 设置缩放效果 */
+        body {
+            zoom: 1.05; /* 缩放110% */
+        }
+    </style>
+</head>
+</html>
+
+{% if page.meta.banner_image %}
+<div style="width: 100%; display: block; margin-bottom: 2vw;">
+    <img src="{{ page.meta.banner_image }}" style="width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;">
+</div>
+{% endif %}
+
+<!-- Your page content starts here -->
+{{ super() }}
+{% endblock %}
