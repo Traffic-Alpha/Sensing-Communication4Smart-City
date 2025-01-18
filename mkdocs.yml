@@ -71,7 +71,8 @@ extra:
       link: +86-0755-23519520
 nav:
   - Home: 
-    - 2024: index.md
+    - 2025: index.md
+    - 2024: news/2024.md
     - 2023: news/2023.md
     - 2022: news/2022.md
     - 2021: news/2021.md
